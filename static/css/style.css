@@ -1,4 +1,8 @@
 
+.jumbotron{
+  text-align: center;
+}
+
 .jumbotron img{
     display:block;
     margin-left:auto;
